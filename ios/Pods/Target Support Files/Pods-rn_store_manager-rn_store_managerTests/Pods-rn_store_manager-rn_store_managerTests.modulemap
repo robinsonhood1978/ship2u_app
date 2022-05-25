@@ -1,0 +1,6 @@
+module Pods_rn_store_manager_rn_store_managerTests {
+  umbrella header "Pods-rn_store_manager-rn_store_managerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,4 @@
+# Referenced at /Users/walter/Code/ship2u_app/Ship2U_APP3/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:55
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/walter/Code/ship2u_app/Ship2U_APP3/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:55
+-keep class com.rn_store_manager.MainApplication { <init>(); }
